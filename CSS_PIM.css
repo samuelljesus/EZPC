@@ -1,0 +1,583 @@
+header {
+    position: absolute;
+    width: 100%;
+    height: 163px;
+    left: 0px;
+    top: 0px;
+    background: #D66BBE;
+}
+
+footer {
+position:absolute;
+display: flex;
+width: 100%;
+height: 113px;
+left: 0px;
+top: 700px;
+margin-bottom: 0%;
+background: #EFE3E3;
+}
+
+
+.btn_branco {
+    font-family: 'Bungee Inline';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: #fff;
+    color: #000;
+}
+
+.btn_cinza {
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+background-color: #D9D9D9;
+color: #000;
+}
+
+
+
+.Input_digite{
+    position: absolute;
+    width: 850px;
+    height: 38px;
+    left: 250px;
+    top: 100px;
+    font-family: 'Bungee Inline';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    border-radius: 20px;
+    background-color: black;
+    color: #FFF;
+
+}
+input::placeholder {
+    color: #FFFEFE;
+}
+
+
+
+.btn_fórum {
+position: absolute;
+width: 145px;
+height: 52px;
+left: 320px;
+top: 22px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.btn_Tutoriais {
+position: absolute;
+width: 237px;
+height: 52px;
+left: 500px;
+top: 22px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.btn_sobre_nós {
+position: absolute;
+width: 222px;
+height: 52px;
+left: 770px;
+top: 22px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.btn_cadastro {
+position: absolute;
+width: 300px;
+height: 52px;
+left: 1040px;
+top: 22px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.btn_mais_baratos {
+position: absolute;
+width: 287px;
+height: 52px;
+left: 125px;
+top: 181px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+
+
+
+
+
+.monte_seu_pc {
+position: absolute;
+width: 332px;
+height: 52px;
+left: calc(50% - 332px/2 - 37px);
+top: 590px;
+background: #D66BBE;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #000000;
+
+}
+
+.lupa123 {
+position: absolute;
+width: 31px;
+height: 30px;
+left: 950px;
+top: 105px;
+}
+
+.img_mais_baratos {
+position: absolute;
+width: 287px;
+height: 271px;
+left: 125px;
+top: 264px;
+}
+
+
+
+
+.img_melhor_desempenho {
+    position: absolute;
+    width: 395px;
+    height: 270px;
+    left: 665px;
+    top: 264px;   
+}
+
+
+.patrocinio {
+position: absolute;
+width: 189.07px;
+height: 50px;
+left: 1350px;
+top: 160px;
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+text-align: center;
+color: #000000;
+background-color: #B4ABAB;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 4px;
+}
+
+.texto_rodapé {
+position: absolute;
+width: 781px;
+height: 195px;
+left:350px;
+top: 12px;
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 16px;
+text-align: center;
+color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+.Logo {
+position: absolute;
+width: 123px;
+height: 120px;
+left: 2px;
+top: 21px;
+border-radius: 20px;
+}
+
+
+
+
+.btn_login {
+ position: absolute;
+width: 145px;
+height: 52px;
+left: 139px;
+top: 22px;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+
+
+
+
+
+.btn_custo_beneficio {
+    position: absolute;
+    width: 315px;
+    height: 52px;
+    left: 450px;
+    top: 181px;
+    background: #D9D9D9;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.btn_melhor_desempenho {
+position: absolute;
+width: 395px;
+height: 52px;
+left: 800px;
+top: 181px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+.img_custo_beneficio {
+    position: absolute;
+width: 316px;
+height: 270.86px;
+left: 450px;
+top: 264px;
+
+}
+
+.img_melhor_desempenho {
+    position: absolute;
+    width: 395px;
+    height: 270px;
+    left: 800px;
+    top: 264px;   
+}
+
+.img_propaganda {
+position: absolute;
+width: 189.07px;
+height: 352px;
+left: 1350px;
+top: 227px;
+border-radius: 4px;
+}
+
+
+
+
+/* Tela de Cadastro */
+h1 {
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+text-align: center;
+position: absolute;
+width: 465px;
+height: 120px;
+left: 550px;
+top: -10px;
+color: #000;
+background: #FFFFFF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+h2 {
+position: absolute;
+width: 355px;
+height: 30px;
+left: 660px;
+top: 200px;
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+}
+
+.input_cinza {
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.input_nickname {
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+position: absolute;
+width: 451px;
+height: 89px;
+left:200px;
+top: 300px;
+}
+
+.input_nickname::placeholder {
+    color: #A9A9A3;
+}
+
+.nickname_texto {
+position: absolute;
+width: 143px;
+height: 13px;
+left: 200px;
+top: 270px;
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+}
+
+.input_email {
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+position: absolute;
+width: 451px;
+height: 89px;
+left: 200px;
+top:450px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.input_email::placeholder {
+    color: #A9A9A3;
+}
+
+.email_texto {
+position: absolute;
+width: 143px;
+height: 13px;
+left: 200px;
+top: 420px;
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+}
+
+.input_senha {
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+position: absolute;
+width: 451px;
+height: 89px;
+left: 800px;
+top:300px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.input_senha::placeholder {
+    color: #A9A9A3;
+}
+
+.senha_texto{
+position: absolute;
+width: 143px;
+height: 13px;
+left: 800px;
+top: 270px;
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+}
+
+
+.input_confirma_senha {
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+position: absolute;
+width: 451px;
+height: 89px;
+left: 800px;
+top: 450px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.input_confirma_senha::placeholder {
+    color: #A9A9A3;
+}
+
+.confirma_senha_texto{
+    position: absolute;
+    width: 160px;
+    height: 13px;
+    left: 800px;
+    top: 420px;
+    font-family: 'Bungee Inline';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    }
+
+.cadastrar_conta {
+position: absolute;
+width: 332px;
+height: 52px;
+left: 560px;
+top: 600px;
+background: #D66BBE;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+text-align: center;
+color: #000000;
+}
+
+
+/*TELA DE LOGIN*/
+
+.input_email_login {
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+position: absolute;
+width: 337px;
+height: 120px;
+left: 600px;
+top: 200px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.input_email_login::placeholder {
+    color: #A9A9A3;
+}
+
+.input_senha_login {
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+position: absolute;
+width: 337px;
+height: 120px;
+left: 600px;
+top: 350px;
+background: #D9D9D9;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.input_senha_login::placeholder {
+    color: #A9A9A3;
+}
+.entrar_conta {
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 36px;
+position: absolute;
+width: 337px;
+height: 120px;
+left:600px;
+top: 500px;
+background: #D66BBE;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 20px;
+}
+
+.esqueceu_senha {
+position: absolute;
+width: 461px;
+height: 24px;
+left: 500px;
+top: 758px;
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+color: #A9A9A3;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.a_cadastro {
+position: absolute;
+width: 461px;
+height: 24px;
+left: 800px;
+top: 758px;
+font-family: 'Bungee Inline';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+color: #A9A9A3;
+text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
